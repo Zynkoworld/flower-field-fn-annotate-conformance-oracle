@@ -1,0 +1,8 @@
+{"input": [], "expect": [], "task": "flower-field", "lang": "python"}
+{"input": [""], "expect": [""], "task": "flower-field", "lang": "python"}
+{"input": ["   ", "   ", "   "], "expect": ["   ", "   ", "   "], "task": "flower-field", "lang": "python"}
+{"input": ["***", "***", "***"], "expect": ["***", "***", "***"], "task": "flower-field", "lang": "python"}
+{"input": ["   ", " * ", "   "], "expect": ["111", "1*1", "111"], "task": "flower-field", "lang": "python"}
+{"input": ["***", "* *", "***"], "expect": ["***", "*8*", "***"], "task": "flower-field", "lang": "python"}
+{"input": [" * * "], "expect": ["1*2*1"], "task": "flower-field", "lang": "python"}
+{"input": ["*   *"], "expect": ["*1 1*"], "task": "flower-field", "lang": "python"}
